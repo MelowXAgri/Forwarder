@@ -2,27 +2,27 @@
   "userbot": {
     "api_id": 123456,
     "api_hash": "your_api_hash_here",
-    "string_session": "",                 
-    "source_channel": "-1001234567890",  
-    "source_invite_link": "https://t.me/+InviteHash"  
+    "string_session": "1B......PANJANG......",
+    "source_channel": "-1001234567890",
+    "source_invite_link": ""
   },
   "queue": {
     "dir": "queue_ids",
     "state_file": ".harvest_ids_state.json",
     "min_id": 0,
     "max_id": 0,
-    "limit_per_run": 0,
+    "limit_per_run": 10,
     "log_every": 1
   },
   "bot": {
     "token": "123456:ABC-your-bot-token",
     "source_channel_id": -1001234567890,
     "dest_channel_id": -1009876543210,
-    "base_delay_ms": 1000,
-    "jitter_ms": 400,
-    "per_min_cap": 50,
-    "daily_cap": 1500,
-    "batch_size": 1000,
+    "base_delay_ms": 1200,
+    "jitter_ms": 600,
+    "per_min_cap": 30,
+    "daily_cap": 1200,
+    "batch_size": 200,
     "batch_sleep_sec": 1800,
     "log_every": 1
   }
