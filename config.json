@@ -2,9 +2,9 @@
   "userbot": {
     "api_id": 123456,
     "api_hash": "your_api_hash_here",
-    "string_session": "",                 // diisi otomatis oleh get_string_session.py
-    "source_channel": "-1001234567890",   // bisa @username atau url t.me/xxx
-    "source_invite_link": "https://t.me/+InviteHash"  // opsional (private)
+    "string_session": "",                 
+    "source_channel": "-1001234567890",  
+    "source_invite_link": "https://t.me/+InviteHash"  
   },
   "queue": {
     "dir": "queue_ids",
