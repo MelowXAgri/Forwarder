@@ -11,7 +11,7 @@
     "state_file": ".harvest_ids_state.json",
     "min_id": 0,
     "max_id": 0,
-    "limit_per_run": 10,
+    "limit_per_run": 10000000000,
     "log_every": 1
   },
   "bot": {
