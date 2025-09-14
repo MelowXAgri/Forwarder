@@ -15,7 +15,7 @@
     "log_every": 1
   },
   "bot": {
-    "token": "8226153079:AAHItjUVRIyLG--VKnAGt45TLT21I6JIUCE",
+    "token": "8235863369:AAGs4N-Je9DczP3JEsB5WAsyj253BWY0_ks",
     "source_channel_id": -1001780306404,
     "dest_channel_id": -1002636137923,
     "base_delay_ms": 1200,
