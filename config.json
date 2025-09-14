@@ -1,9 +1,9 @@
 {
   "userbot": {
-    "api_id": 123456,
-    "api_hash": "your_api_hash_here",
+    "api_id": 22191511,
+    "api_hash": "def7f443b8e664bba5c23e6d23211bb6",
     "string_session": "1B......PANJANG......",
-    "source_channel": "-1001234567890",
+    "source_channel": "-1001780306404",
     "source_invite_link": ""
   },
   "queue": {
@@ -15,8 +15,8 @@
     "log_every": 1
   },
   "bot": {
-    "token": "123456:ABC-your-bot-token",
-    "source_channel_id": -1001234567890,
+    "token": "8226153079:AAHItjUVRIyLG--VKnAGt45TLT21I6JIUCE",
+    "source_channel_id": -1001780306404,
     "dest_channel_id": -1009876543210,
     "base_delay_ms": 1200,
     "jitter_ms": 600,
