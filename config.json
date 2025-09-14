@@ -2,9 +2,9 @@
   "userbot": {
     "api_id": 22191511,
     "api_hash": "def7f443b8e664bba5c23e6d23211bb6",
-    "string_session": "1B......PANJANG......",
+    "string_session": "1BVtsOIMBu2wig15frDgqfMCrwbAEog3omElcQjGN-RgWTOGCmx7FrecDNBzF3Ku2m0O47es9Xrg14rI7bls2sr4p1ij7a2zigOxvcYqz_WgtQ5TLfd6suCsBqXmGLNAPisOxbayI69AxgKvRMzHuNsDXFocffioDF3UR58URXUcCIB1rIF_BMd1NUhuYzHvdFrfyL3A-htmWd0cZJMPWG16D-1DIPfz0J7MdVYTeh2PPabQgxrsUiBrYXFgTolEBl_LW7qBcj4lQijCOd3J4K3z-sRY16yPadkftKlg7yM0wkMXZWJa-BswChQQiyUyFK8RM6YhYCb7B0-8X-HD1oCoiSBlJJXM=",
     "source_channel": "-1001780306404",
-    "source_invite_link": ""
+    "source_invite_link": "https://t.me/+uVGdplugLMs2OWJl"
   },
   "queue": {
     "dir": "queue_ids",
@@ -17,7 +17,7 @@
   "bot": {
     "token": "8226153079:AAHItjUVRIyLG--VKnAGt45TLT21I6JIUCE",
     "source_channel_id": -1001780306404,
-    "dest_channel_id": -1009876543210,
+    "dest_channel_id": -1002636137923,
     "base_delay_ms": 1200,
     "jitter_ms": 600,
     "per_min_cap": 30,
