@@ -14,16 +14,16 @@
     "limit_per_run": 10000000000,
     "log_every": 1
   },
-  "bot": {
-    "token": "8235863369:AAGs4N-Je9DczP3JEsB5WAsyj253BWY0_ks",
-    "source_channel_id": -1001780306404,
-    "dest_channel_id": -1002636137923,
-    "base_delay_ms": 1000,
-    "jitter_ms": 400,
-    "per_min_cap": 50,
-    "daily_cap": 1500,
-    "batch_size": 1000,
-    "batch_sleep_sec": 120,
+}
+ "bot": {
+    "token": "8226153079:AAHItjUVRIyLG--VKnAGt45TLT21I6JIUCE",
+    "source_channel_id":-1001780306404,
+    "dest_channel_id": -1002958108893,
+    "base_delay_ms": 1750,
+    "jitter_ms": 600,
+    "per_min_cap": 34,
+    "daily_cap": 40000,
+    "batch_size": 2000,
+    "batch_sleep_sec": 1800,
     "log_every": 1
   }
-}
